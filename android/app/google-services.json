@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "682561257918",
+    "project_id": "hospitalsanalejo",
+    "storage_bucket": "hospitalsanalejo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682561257918:android:2bf777ef746e4dc27b39ef",
+        "android_client_info": {
+          "package_name": "com.example.hospitalsanalejo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682561257918-sdmsq4cd2or78cv87ji5pk6hqjl8n2af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl8IfXRspmSWshkBgiwSModCuP2h2dQP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682561257918-sdmsq4cd2or78cv87ji5pk6hqjl8n2af.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682561257918-3l1ple6nvmc7v2dhndsaig384catnh3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hospitalsanalejo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
